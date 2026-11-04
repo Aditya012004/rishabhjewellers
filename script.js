@@ -9,97 +9,97 @@ const collections = [
     "id": "tirupati",
     "name": "Tirupati pendant",
     "count": 13,
-    "cover": "images/tirupati pendant/01.png",
+    "cover": "tirupati pendant/01.png",
     "description": "13 supplied designs. Select any product picture to view it larger and enquire on WhatsApp.",
     "products": [
       {
         "name": "Tirupati Dollar 01",
         "ref": "RJ-101",
-        "image": "images/tirupati pendant/01.png",
+        "image": "tirupati pendant/01.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Tirupati Dollar 02",
         "ref": "RJ-102",
-        "image": "images/tirupati pendant/02.png",
+        "image": "tirupati pendant/02.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Tirupati Dollar 03",
         "ref": "RJ-103",
-        "image": "images/tirupati pendant/03.png",
+        "image": "tirupati pendant/03.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Tirupati Dollar 04",
         "ref": "RJ-104",
-        "image": "images/tirupati pendant/04.png",
+        "image": "tirupati pendant/04.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Tirupati Dollar 05",
         "ref": "RJ-105",
-        "image": "images/tirupati pendant/05.png",
+        "image": "tirupati pendant/05.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Tirupati Dollar 06",
         "ref": "RJ-106",
-        "image": "images/tirupati pendant/06.png",
+        "image": "tirupati pendant/06.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Tirupati Dollar 07",
         "ref": "RJ-107",
-        "image": "images/tirupati pendant/07.png",
+        "image": "tirupati pendant/07.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Tirupati Dollar 08",
         "ref": "RJ-108",
-        "image": "images/tirupati pendant/08.png",
+        "image": "tirupati pendant/08.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Tirupati Dollar 09",
         "ref": "RJ-109",
-        "image": "images/tirupati pendant/09.png",
+        "image": "tirupati pendant/09.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Tirupati Dollar 10",
         "ref": "RJ-110",
-        "image": "images/tirupati pendant/10.png",
+        "image": "tirupati pendant/10.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Tirupati Dollar 11",
         "ref": "RJ-111",
-        "image": "images/tirupati pendant/11.png",
+        "image": "tirupati pendant/11.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Tirupati Dollar 12",
         "ref": "RJ-112",
-        "image": "images/tirupati pendant/12.png",
+        "image": "tirupati pendant/12.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Tirupati Dollar 13",
         "ref": "RJ-113",
-        "image": "images/tirupati pendant/13.png",
+        "image": "tirupati pendant/13.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       }
@@ -109,97 +109,97 @@ const collections = [
     "id": "temple-necklace",
     "name": "Temple Antique Necklace",
     "count": 13,
-    "cover": "images/Temple antique necklace/01.png",
+    "cover": "Temple antique necklace/01.png",
     "description": "13 supplied designs. Select any product picture to view it larger and enquire on WhatsApp.",
     "products": [
       {
         "name": "Temple Antique Necklace 01",
         "ref": "RJ-201",
-        "image": "images/Temple antique necklace/01.png",
+        "image": "Temple antique necklace/01.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Temple Antique Necklace 02",
         "ref": "RJ-202",
-        "image": "images/Temple antique necklace/02.png",
+        "image": "Temple antique necklace/02.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Temple Antique Necklace 03",
         "ref": "RJ-203",
-        "image": "images/Temple antique necklace/03.png",
+        "image": "Temple antique necklace/03.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Temple Antique Necklace 04",
         "ref": "RJ-204",
-        "image": "images/Temple antique necklace/04.png",
+        "image": "Temple antique necklace/04.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Temple Antique Necklace 05",
         "ref": "RJ-205",
-        "image": "images/Temple antique necklace/05.png",
+        "image": "Temple antique necklace/05.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Temple Antique Necklace 06",
         "ref": "RJ-206",
-        "image": "images/Temple antique necklace/06.png",
+        "image": "Temple antique necklace/06.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Temple Antique Necklace 07",
         "ref": "RJ-207",
-        "image": "images/Temple antique necklace/07.png",
+        "image": "Temple antique necklace/07.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Temple Antique Necklace 08",
         "ref": "RJ-208",
-        "image": "images/Temple antique necklace/08.png",
+        "image": "Temple antique necklace/08.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Temple Antique Necklace 09",
         "ref": "RJ-209",
-        "image": "images/Temple antique necklace/09.png",
+        "image": "Temple antique necklace/09.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Temple Antique Necklace 10",
         "ref": "RJ-210",
-        "image": "images/Temple antique necklace/10.png",
+        "image": "Temple antique necklace/10.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Temple Antique Necklace 11",
         "ref": "RJ-211",
-        "image": "images/Temple antique necklace/11.png",
+        "image": "Temple antique necklace/11.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Temple Antique Necklace 12",
         "ref": "RJ-212",
-        "image": "images/Temple antique necklace/12.png",
+        "image": "Temple antique necklace/12.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Temple Antique Necklace 13",
         "ref": "RJ-213",
-        "image": "images/Temple antique necklace/13.png",
+        "image": "Temple antique necklace/13.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       }
@@ -209,48 +209,48 @@ const collections = [
     "id": "ganesha",
     "name": "Ganesha Pendant",
     "count": 13,
-    "cover": "images/Ganesha pendant/01.png",
+    "cover": "Ganesha pendant/01.png",
     "description": "13 supplied designs. Select any product picture to view it larger and enquire on WhatsApp.",
     "products": [
       {
         "name": "Ganesha Pendant 01",
         "ref": "RJ-301",
-        "image": "images/Ganesha pendant/01.png",
+        "image": "Ganesha pendant/01.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Ganesha Pendant 02",
         "ref": "RJ-302",
-        "image": "images/Ganesha pendant/02.png",
+        "image": "Ganesha pendant/02.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Ganesha Pendant 03",
         "ref": "RJ-303",
-        "image": "images/Ganesha pendant/03.png",
+        "image": "Ganesha pendant/03.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Ganesha Pendant 04",
         "ref": "RJ-304",
-        "image": "images/Ganesha pendant/04.png",
+        "image": "Ganesha pendant/04.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Ganesha Pendant 05",
         "ref": "RJ-305",
-        "image": "images/Ganesha pendant/05.png",
+        "image": "Ganesha pendant/05.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
       {
         "name": "Ganesha Pendant 06",
         "ref": "RJ-306",
-        "image": "images/Ganesha pendant/06.png",
+        "image": "Ganesha pendant/06.png",
         "weight": "",
         "note": "Please confirm net weight, purity, price and availability with the showroom."
       },
